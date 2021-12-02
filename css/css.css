@@ -65,7 +65,7 @@ table {
         media queries
 *********************************/
 
-@media screen and (max-width:960px){
+@media screen and (min-width:960px){
     .container{
         width:80%;
     }
